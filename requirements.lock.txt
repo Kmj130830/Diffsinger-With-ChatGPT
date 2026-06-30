@@ -1,0 +1,25 @@
+# Filled after compatibility testing.
+
+torch
+torchvision
+torchaudio
+
+lightning
+
+numpy
+scipy
+librosa
+matplotlib
+
+omegaconf
+pyyaml
+
+pyworld
+praat-parselmouth
+
+tqdm
+
+tensorboard
+
+onnx
+onnxruntime
