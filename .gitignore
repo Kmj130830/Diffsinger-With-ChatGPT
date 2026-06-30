@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Dataset
+dataset/
+data/
+raw/
+
+# Training
+checkpoints/
+experiments/
+runs/
+logs/
+
+# Model
+*.onnx
+*.ckpt
+*.pth
+
+# Temp
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
